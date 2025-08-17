@@ -1,5 +1,5 @@
 <h1 align="center">
-    Create a Simple Web Page with HTML in 10 minutes
+    Fundamentals of Javascript through rock-paper-scissors
 </h1>
 
 <p align="center">
